@@ -1,0 +1,7 @@
+{
+  "repositories": [
+    "n8n-io/n8n",
+    "microsoft/playwright",
+    "microsoft/TypeScript"
+  ]
+}

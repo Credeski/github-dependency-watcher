@@ -1,0 +1,2 @@
+"""GitHub dependency watcher package."""
+
